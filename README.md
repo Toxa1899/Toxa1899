@@ -20,3 +20,10 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+### About Me 
+
+-  Python Developer!.
+-  Don't mind about cooperation!
+-  How to reach me: RodionDereha@gmail.com
