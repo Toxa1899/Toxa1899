@@ -27,3 +27,8 @@
 -  Python Developer!.
 -  Don't mind about cooperation!
 -  How to reach me: RodionDereha@gmail.com
+
+
+### LeetCode Stats 
+
+<img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Rd&theme=dark" width="400"/>
