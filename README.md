@@ -23,7 +23,7 @@
 <h3 align="center">Python Backend Developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRhOWh1bGM1dDVpMmdzM2FyOHNoZ3BjZDUwNmhzemh3c2gzaTh4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3e/9b/c8/3e9bc8d2eeaebbbda23b042748b6c18c.gif">
 
 
 ### About Me 
