@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRlbnBmZ2V2NGliZm43ejRucW54ZWdvOTkxd213cXpjd29jd3RyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif" height="400"/>
-</div>
+</div> -->
    
    
 <!-- Macos like icons -->
