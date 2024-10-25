@@ -20,6 +20,10 @@
 
    </h6>
    </p> 
+
+   <div align="center">
+  <img src="https://count.getloli.com/get/@:ames0k0" />
+</div>
 <h3 align="center">Python Backend Developer</h3>
 
 
