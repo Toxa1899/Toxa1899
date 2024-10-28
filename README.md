@@ -31,7 +31,9 @@
 
 
 ### About Me 
-- https://about-me-alpha-peach.vercel.app/
+
+
+- <a href="https://about-me-alpha-peach.vercel.app/">telegram</a>
 -  Python Developer!.
 -  Don't mind about cooperation!
 -  How to reach me:  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RodionDereha@gmail.com)
